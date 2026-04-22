@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="./README.md"><b>English</b></a> | <a href="./README_CN.md"><b>简体中文</b></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=980&lines=%E2%96%B6+OSRBOT+%3D+OPEN+SOURCE+ROBOTICS;%E2%96%B6+BUILDING+OPEN+ROBOTS+FOR+THE+REAL+WORLD;%E2%96%B6+ROBOTICS+%C3%97+AI+AGENTS+%C3%97+OPEN+ECOSYSTEM" alt="Typing SVG" />
 </p>
 
@@ -29,8 +33,8 @@
 ````
 
 > **OSRBOT = Open Source Robotics.**
-> 我们相信机器人不该是封闭孤岛，而应成为一个 **开放、可复用、可协作、可持续演进** 的技术体系。
-> 从机器人本体到 AI Agent，从感知到决策，从仿真到部署，我们致力于构建真正面向现实世界的 **开放机器人生态**。
+> We believe robotics should not be a closed island. It should be an **open, reusable, collaborative, and continuously evolving** technology ecosystem.
+> From robot systems to AI agents, from perception to decision-making, from simulation to deployment, we build **open robotics for the real world**.
 
 ---
 
@@ -38,23 +42,23 @@
 
 ### 🌍 Open Source Robotics
 
-* 开放代码，而不是封闭黑盒
-* 开放协作，而不是重复造轮子
-* 开放生态，而不是单点工具
-* 开放标准，而不是割裂系统
+* Open code, not black boxes
+* Open collaboration, not duplicated effort
+* Open ecosystems, not isolated tools
+* Open standards, not fragmented systems
 
 ### 🤖 Robotics for the Real World
 
-* 面向真实任务
-* 面向系统落地
-* 面向长期维护
-* 面向社区共建
+* Built for real tasks
+* Built for deployable systems
+* Built for long-term maintainability
+* Built with community contribution in mind
 
 ### 🧠 AI Agents for Robots
 
-* 让机器人具备理解、规划、行动能力
-* 让 Agent 不只是会回答，更要会执行
-* 让智能系统可以接入工具、环境与反馈闭环
+* Robots should be able to understand, plan, and act
+* Agents should not only answer, but execute
+* Intelligence should connect to tools, environments, and feedback loops
 
 ---
 
@@ -66,30 +70,30 @@
 
 ### 🤖 Embodied Intelligence
 
-* 多模态感知
-* 世界建模
-* 任务理解
-* 具身决策
+* Multimodal perception
+* World modeling
+* Task understanding
+* Embodied decision-making
 
     </td>
     <td width="33%" valign="top">
 
 ### 🧠 Agent Systems
 
-* Tool Use
+* Tool use
 * Planning / ReAct
 * Memory / RAG
-* Multi-Agent Coordination
+* Multi-agent coordination
 
     </td>
     <td width="33%" valign="top">
 
 ### ⚡ Open Robotics Stack
 
-* Motion Planning
-* Control Stack
-* Simulation to Real
-* Reusable Infrastructure
+* Motion planning
+* Control stack
+* Simulation to real
+* Reusable infrastructure
 
     </td>
   </tr>
@@ -154,14 +158,14 @@ osrbot:
 
 ## `> MISSION PROFILE`
 
-### 🛰️ 我们在做什么
+### 🛰️ What We Build
 
-* 构建面向真实世界任务的 **开放机器人系统**
-* 构建能与机器人系统深度结合的 **AI Agent**
-* 打通从 **感知 → 规划 → 执行 → 反馈** 的工程闭环
-* 让机器人能力以 **开源组件、可复用模块、共享基础设施** 的形式持续生长
+* Open robotic systems for real-world tasks
+* AI agents deeply integrated with robotics workflows
+* Full engineering loops from **perception → planning → execution → feedback**
+* Reusable open modules, shared infrastructure, and deployable system components
 
-### 🛠️ 我们关注什么
+### 🛠️ What We Care About
 
 * Open Source Robotics
 * Agent for Robotics
@@ -176,27 +180,27 @@ osrbot:
 
 ## `> WHY OPEN SOURCE ROBOTICS`
 
-| Direction         | What We Believe        |
-| ----------------- | ---------------------- |
-| `Open Code`       | 机器人能力应可学习、可复现、可扩展      |
-| `Open Modules`    | 感知、规划、控制、Agent 都应模块化协同 |
-| `Open Ecosystem`  | 真正强大的机器人系统来自社区共同演化     |
-| `Open Standards`  | 开放接口比封闭工具更能推动行业前进      |
-| `Open Deployment` | 从仿真到真机，能力应尽可能可迁移、可验证   |
+| Direction         | What We Believe                                                                      |
+| ----------------- | ------------------------------------------------------------------------------------ |
+| `Open Code`       | Robotics capabilities should be learnable, reproducible, and extensible              |
+| `Open Modules`    | Perception, planning, control, and agents should work as modular systems             |
+| `Open Ecosystem`  | Strong robotics systems emerge through community evolution                           |
+| `Open Standards`  | Open interfaces move the field forward faster than closed tooling                    |
+| `Open Deployment` | Capabilities should transfer from simulation to real systems as reliably as possible |
 
 ---
 
 ## `> FEATURED REPOSITORIES`
 
-> 将下面仓库名替换成你的真实项目。
+> Replace these with your actual repositories.
 
-| Module | Repository                                                           | Description                                            |
-| ------ | -------------------------------------------------------------------- | ------------------------------------------------------ |
-| `01`   | [`osrbot-agent-core`](https://github.com/OSRBOT/osrbot-agent-core)   | AI agent runtime for robotics, planning, tools, memory |
-| `02`   | [`osrbot-robot-stack`](https://github.com/OSRBOT/osrbot-robot-stack) | Open robot middleware, perception, planning, control   |
-| `03`   | [`osrbot-sim`](https://github.com/OSRBOT/osrbot-sim)                 | Simulation, evaluation, digital twin workflows         |
-| `04`   | [`osrbot-vision`](https://github.com/OSRBOT/osrbot-vision)           | Vision, detection, tracking, scene understanding       |
-| `05`   | [`osrbot-deploy`](https://github.com/OSRBOT/osrbot-deploy)           | Deployment, infra, observability, reproducible ops     |
+| Module | Repository                                                           | Description                                                     |
+| ------ | -------------------------------------------------------------------- | --------------------------------------------------------------- |
+| `01`   | [`osrbot-agent-core`](https://github.com/OSRBOT/osrbot-agent-core)   | AI agent runtime for robotics, planning, tools, memory          |
+| `02`   | [`osrbot-robot-stack`](https://github.com/OSRBOT/osrbot-robot-stack) | Open robot middleware, perception, planning, control            |
+| `03`   | [`osrbot-sim`](https://github.com/OSRBOT/osrbot-sim)                 | Simulation, evaluation, and digital twin workflows              |
+| `04`   | [`osrbot-vision`](https://github.com/OSRBOT/osrbot-vision)           | Vision, detection, tracking, and scene understanding            |
+| `05`   | [`osrbot-deploy`](https://github.com/OSRBOT/osrbot-deploy)           | Deployment, infrastructure, observability, and reproducible ops |
 
 ---
 
@@ -217,14 +221,14 @@ flowchart LR
 
 ## `> OSRBOT MANIFEST`
 
-> **OSRBOT 不只是一个名字。**
-> 它代表我们对未来机器人系统的看法：
+> **OSRBOT is more than a name.**
+> It reflects how we think robotics systems should be built:
 
-* 机器人应该是 **开放构建** 的
-* 智能体应该是 **可执行** 的
-* 系统能力应该是 **可复用** 的
-* 工程成果应该是 **可共享** 的
-* 生态发展应该是 **社区驱动** 的
+* Robotics should be **open by design**
+* Agents should be **actionable**
+* System capabilities should be **reusable**
+* Engineering outputs should be **shareable**
+* Ecosystems should be **community-driven**
 
 ---
 
@@ -242,15 +246,15 @@ flowchart LR
 
 ## `> JOIN THE HANGAR`
 
-### 我们欢迎这样的人
+### We Welcome People Who
 
-* 认同 **Open Source Robotics** 的价值
-* 热爱 **机器人 / AI Agent / 系统工程**
-* 愿意做长期主义的基础建设
-* 追求 **简单、优雅、有效**
-* 乐于将能力沉淀为开源模块与公共资产
+* Believe in the value of **Open Source Robotics**
+* Care deeply about **robotics, AI agents, and systems engineering**
+* Want to build long-term foundational infrastructure
+* Value **simplicity, elegance, and effectiveness**
+* Enjoy turning engineering work into open modules and shared public assets
 
-### 我们关注的方向
+### Areas We Care About
 
 * Robotics Engineer
 * Embodied AI Engineer
@@ -282,9 +286,11 @@ flowchart LR
 ```
 
 <p align="center">
-  <b>「Open Source Robotics for the real world.」</b>
+  <b>“Open Source Robotics for the real world.”</b>
 </p>
 
 <p align="center">
   <sub>OSRBOT © Open Source Robotics</sub>
 </p>
+
+---
