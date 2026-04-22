@@ -1,3 +1,8 @@
+
+<p align="center">
+  <a href="./README.zh-CN.md"><b>简体中文</b></a> | <a href="./README.md"><b>English</b></a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=980&lines=%E2%96%B6+OSRBOT+%3D+OPEN+SOURCE+ROBOTICS;%E2%96%B6+BUILDING+OPEN+ROBOTS+FOR+THE+REAL+WORLD;%E2%96%B6+ROBOTICS+%C3%97+AI+AGENTS+%C3%97+OPEN+ECOSYSTEM" alt="Typing SVG" />
 </p>
@@ -288,3 +293,5 @@ flowchart LR
 <p align="center">
   <sub>OSRBOT © Open Source Robotics</sub>
 </p>
+
+---
